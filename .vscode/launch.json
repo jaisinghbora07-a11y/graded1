@@ -1,0 +1,157 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Unit2",
+      "request": "launch",
+      "mainClass": "Unit2",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "Pool01",
+      "request": "launch",
+      "mainClass": "Pool01",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "ThreadPool01",
+      "request": "launch",
+      "mainClass": "ThreadPool01",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "Thread04",
+      "request": "launch",
+      "mainClass": "Thread04",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "Thread03",
+      "request": "launch",
+      "mainClass": "Thread03",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "Thread02",
+      "request": "launch",
+      "mainClass": "Thread02",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "Thread01",
+      "request": "launch",
+      "mainClass": "Thread01",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "SimpleCalculator",
+      "request": "launch",
+      "mainClass": "SimpleCalculator",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "Practice4",
+      "request": "launch",
+      "mainClass": "Practice4",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "P2",
+      "request": "launch",
+      "mainClass": "P2",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "MyExample5",
+      "request": "launch",
+      "mainClass": "MyExample5",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "MouseListenerExample",
+      "request": "launch",
+      "mainClass": "MouseListenerExample",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "ChoiceExample",
+      "request": "launch",
+      "mainClass": "ChoiceExample",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "MyAWTApp",
+      "request": "launch",
+      "mainClass": "MyAWTApp",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "Poly01",
+      "request": "launch",
+      "mainClass": "Poly01",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "CreateGUI",
+      "request": "launch",
+      "mainClass": "CreateGUI",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "GUIcreate",
+      "request": "launch",
+      "mainClass": "GUIcreate",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "type": "java",
+      "name": "Practice2",
+      "request": "launch",
+      "mainClass": "Practice2",
+      "projectName": "JaiCS_54d1a080"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/DELL/Desktop/JaiCS/C Program",
+      "program": "c:/Users/DELL/Desktop/JaiCS/C Program/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
